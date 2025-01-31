@@ -28,7 +28,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/R-a-z-e-n/fake-news-detector-and-sentiment-analyser
 
 Navigate to the project directory:
 
